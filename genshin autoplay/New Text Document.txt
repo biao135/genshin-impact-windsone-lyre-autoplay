@@ -1,0 +1,2 @@
+cd /d D:\Desktop\genshin_scripts-main
+python midi.py
